@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82e2c384e7b31451",
+        "id": "b561dccd6afa8045",
         "type": "tabs",
         "children": [
           {
-            "id": "7aed176ed6b6658d",
+            "id": "9a6aed7477193001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/obsidian/日记.md",
+                "file": "日记/模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记"
+              "title": "模板"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/obsidian/日记.md",
+                "file": "日记/模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "日记 的反向链接列表"
+              "title": "模板 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/obsidian/日记.md",
+                "file": "日记/模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "日记 的出链列表"
+              "title": "模板 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/obsidian/日记.md",
+                "file": "日记/模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日记 的大纲"
+              "title": "模板 的大纲"
             }
           },
           {
@@ -180,11 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aed176ed6b6658d",
+  "active": "9a6aed7477193001",
   "lastOpenFiles": [
-    "images/Pasted image 20250712135708.png",
     "日记/2025/07/2025-07-12.md",
+    "日记/模板.md",
+    "README.md",
     "知识库/obsidian/日记.md",
+    "images/Pasted image 20250712135708.png",
     "知识库/obsidian",
     "知识库/Git/git ssh 配置.md",
     "日记/2025/07",
@@ -196,12 +198,11 @@
     "日记",
     "日记",
     "2025-07-12.md",
-    "临时",
+    "未归档",
     "项目管理",
     "知识库/Linux/ArchLinux/wayland",
     "知识库/Java/Spring",
     "知识库/Python",
-    "README.md",
     "images/Pasted image 20250712132642.png",
     "images/Pasted image 20250712132522.png",
     "images/Pasted image 20250712131607.png",
