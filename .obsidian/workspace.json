@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025/07/2025-07-12-周六.md",
+                "file": "模板/日记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-12-周六"
+              "title": "日记模板"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "7dd5c3f519bedd65",
   "lastOpenFiles": [
-    "未命名.canvas",
     "日记/2025/07/2025-07-12-周六.md",
+    "未命名.canvas",
     "模板/日记模板.md",
     "日记/2025/07/2025-07-12.md",
     "未归档/未命名.md",

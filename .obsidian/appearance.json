@@ -1,5 +1,6 @@
 {
   "monospaceFontFamily": "Hack Nerd Font Mono",
   "cssTheme": "Minimal",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system"
 }
