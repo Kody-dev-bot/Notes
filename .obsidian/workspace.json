@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aed176ed6b6658d",
+  "active": "313f0792bfcf0974",
   "lastOpenFiles": [
+    "项目管理",
     "知识库/Linux/ArchLinux/wayland/Chrome.md",
     "知识库/Linux/ArchLinux/wayland",
     "知识库/Linux/ArchLinux/安装/系统安装.md",
@@ -204,7 +205,6 @@
     "知识库/Git",
     "知识库/Linux/ArchLinux",
     "知识库/Linux",
-    "未命名",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
