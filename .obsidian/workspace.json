@@ -15,7 +15,17 @@
               "state": {
                 "file": "日记/2025/07/2025-07-12-周六.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-07-12-周六"
@@ -182,6 +192,7 @@
   },
   "active": "7dd5c3f519bedd65",
   "lastOpenFiles": [
+    "未命名.canvas",
     "日记/2025/07/2025-07-12-周六.md",
     "模板/日记模板.md",
     "日记/2025/07/2025-07-12.md",
@@ -225,7 +236,6 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md"
+    "copilot-custom-prompts/Translate to Chinese.md"
   ]
 }
