@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Java/Maven/国内镜像.md",
+                "file": "未归档/Python TOTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "国内镜像"
+              "title": "Python TOTP"
             }
           }
         ]
@@ -193,6 +193,7 @@
   "active": "4f8c2e736d1e3183",
   "lastOpenFiles": [
     "知识库/Java/Maven/国内镜像.md",
+    "未归档/Python TOTP.md",
     "知识库/Java/Maven.md",
     "知识库/Java/Maven",
     "知识库/Java",
@@ -236,7 +237,6 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md"
+    "copilot-custom-prompts/Explain like I am 5.md"
   ]
 }
