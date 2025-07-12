@@ -1,5 +1,5 @@
 {
   "promptDelete": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "vimMode": true
 }
