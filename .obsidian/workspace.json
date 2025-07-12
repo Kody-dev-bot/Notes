@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba1bc2f85d306500",
+  "active": "113a83b0dcdbd1e0",
   "lastOpenFiles": [
     "images/Pasted image 20250712115848.png",
     "images/Pasted image 20250712115846.png",
