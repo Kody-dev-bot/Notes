@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Linux/ArchLinux/安装/桌面环境与常用应用安装.md",
+                "file": "知识库/Linux/zsh/zsh 安装与配置.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "桌面环境与常用应用安装"
+              "title": "zsh 安装与配置"
             }
           }
         ]
@@ -192,12 +192,14 @@
   },
   "active": "f29388b02496189d",
   "lastOpenFiles": [
+    "知识库/Linux/ArchLinux/安装/桌面环境与常用应用安装.md",
+    "知识库/Linux/zsh/zsh 安装与配置.md",
+    "知识库/Linux/zsh",
     "未归档/GitHub Actions.md",
     "知识库/Git/GitHub",
     "知识库/obsidian/日记.md",
     "知识库/Linux/ArchLinux/wayland/Chrome.md",
     "知识库/Linux/ArchLinux/安装/系统安装.md",
-    "知识库/Linux/ArchLinux/安装/桌面环境与常用应用安装.md",
     "日记/2025/07/2025-07-12-周六.md",
     "模板/日记模板.md",
     "未命名.canvas",
@@ -216,7 +218,6 @@
     "2025-07-12.md",
     "未归档",
     "项目管理",
-    "知识库/Linux/ArchLinux/wayland",
     "images/Pasted image 20250712132642.png",
     "images/Pasted image 20250712132522.png",
     "images/Pasted image 20250712131607.png",
