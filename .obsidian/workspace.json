@@ -11,10 +11,24 @@
             "id": "4f8c2e736d1e3183",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知识库/Java/Maven/国内镜像.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "国内镜像"
             }
           }
         ]
@@ -176,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "313f0792bfcf0974",
+  "active": "4f8c2e736d1e3183",
   "lastOpenFiles": [
     "知识库/Java/Maven/国内镜像.md",
     "知识库/Java/Maven.md",
